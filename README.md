@@ -2,7 +2,7 @@
 
 A single-page interval timer for a 20-minute rowing boot camp workout, with an animated rower that moves at the target stroke rate so you can match it in real life.
 
-**Live demo:** `https://YOUR-USERNAME.github.io/rowing-timer/`
+**Live demo:** `https://Piposaurio24.github.io/rowing-timer/`
 
 ## Features
 
@@ -36,7 +36,7 @@ To run it locally, download `index.html` and open it in any modern browser.
 1. Put `index.html` at the root of the repository.
 2. Go to **Settings → Pages**.
 3. Set the source to **Deploy from a branch**, choose `main` and `/ (root)`, and save.
-4. After a minute or two the timer is live at `https://YOUR-USERNAME.github.io/REPO-NAME/`.
+4. After a minute or two the timer is live at `https://Piposaurio24.github.io/rowing-timer/`.
 
 ## Project structure
 
@@ -53,7 +53,3 @@ Everything lives in one self-contained file. The six rowing GIFs are embedded as
 Each GIF is one full rowing stroke, timed so that one loop equals 60 ÷ SPM seconds (for example, 3 seconds at 20 SPM and 2 seconds at 30 SPM). When an interval starts, the page swaps in the GIF for that interval's SPM, so the animation restarts at the beginning of the stroke. When the timer is paused or reset, a still image of the first frame is shown.
 
 The cooldown uses the 20 SPM animation.
-
-## Credits
-
-The workout structure is based on the 20-minute "Boot Camp Sweat" session by Laine on Hydrow. This is an unofficial personal project and is not affiliated with or endorsed by Hydrow.
