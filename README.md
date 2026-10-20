@@ -2,7 +2,7 @@
 
 A single-page interval timer for a 20-minute rowing boot camp workout, with an animated rower that moves at the target stroke rate so you can match it in real life.
 
-**Live demo:** `https://Piposaurio24.github.io/rowing-timer/`
+**Live demo:** `https://github.com/Piposaurio24/Rowing-Timer.git`
 
 ## Features
 
@@ -36,7 +36,7 @@ To run it locally, download `index.html` and open it in any modern browser.
 1. Put `index.html` at the root of the repository.
 2. Go to **Settings → Pages**.
 3. Set the source to **Deploy from a branch**, choose `main` and `/ (root)`, and save.
-4. After a minute or two the timer is live at `https://Piposaurio24.github.io/rowing-timer/`.
+4. After a minute or two the timer is live at `https://github.com/Piposaurio24/Rowing-Timer.git`.
 
 ## Project structure
 
